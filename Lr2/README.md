@@ -52,4 +52,4 @@ Make everything work together…
 
 Поэтому добавили сервер Часового пояса Europe/Samara
 
-'jdbc.url=jdbc:mysql://localhost:3306/test?serverTimezone=Europe/Samara&useSSL=false'
+`jdbc.url=jdbc:mysql://localhost:3306/test?serverTimezone=Europe/Samara&useSSL=false`
