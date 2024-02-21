@@ -3,6 +3,17 @@
 ## Самигуллин Равиль гр 6133
 ## Ионов Артем гр 6131
 
+###General task
+You are to develop an application using common JavaEE architecture and technologies. It should have three layers (data, logic, view) and provide means to work with a database.
+
+It is strongly recommended to use version control and source code management system (like GitHub).
+
+It is strongly recommended to use Maven to manage your project.
+
+You can choose any IDE, but IntelliJ IDEA is recommended.
+
+You may not use IDE to deploy your project to an application server. All deployment should be made using administrative console.
+
 ### Задание 1
 Download GlassFish application server.
 Install it by unpacking the archive.
@@ -31,7 +42,7 @@ Create a script to make a database for your model.
 Мы создали скрипты для создания бд и добавили туда данные.
 
 /
-Ссылка на файл со скриптами
+[Ссылка на файл со скриптом](https://github.com/sat4h/Java/blob/e532a6b018bf8201ff0d051dbdbdf12b01afd345/Lr1/gamesenergyskript.sql)
 /
 
 
