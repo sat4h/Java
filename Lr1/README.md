@@ -87,6 +87,19 @@ Make everything work together…
 
 ![image](https://github.com/sat4h/Java/assets/146749026/e33f1e5e-aef7-4d05-b181-4f7a8da83757)
 
+Дополненные данные
+
 ![image](https://github.com/sat4h/Java/assets/146749026/9d80737b-534d-4a35-8f17-049709cf2842)
+
+Изменение данных edit
+
+![image](https://github.com/sat4h/Java/assets/146749026/37ded375-a3f5-4525-ae8e-57d30e8c3454)
+
+Измененные данные
+
+![image](https://github.com/sat4h/Java/assets/146749026/f4aa56bf-06d5-481f-b53f-2b5d28ee1ffb)
+
+
+
 
 
