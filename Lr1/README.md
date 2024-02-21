@@ -9,18 +9,18 @@ Install it by unpacking the archive.
 Start the application server.
 Open an administrative console and go through its controls.
 Мы использовали в реализации своего приложения Apache Tomcat.
-Для первой лабораторной в качестве ide мы использовали net beans. 
-/
-Вставка картинки
-/
+Сначала мы сделали вторую лабораторную работу, где использовали IntelliJ IDEA, а
+для первой лабораторной в качестве ide мы использовали NetBeans IDE. 
+
+![image](https://github.com/sat4h/Java/assets/146749026/4a6a832c-a6ad-4690-95c4-5fa07c3938a7)
+
 
 ### Задание 2
 If you have no DBMS installed, please install one. You can choose any SQL DBMS you like, but PostgreSQL and MySQL are preferred.
 В своей реализации мы использовали Mysql и Workbench.
 
-/
-Вставка картинки
-/
+![image](https://github.com/sat4h/Java/assets/146749026/0bf43d4c-5301-45b0-9e49-3ed2a6b4cb59)
+
 
 ### Задание 3
 Choose any subject area and make a model with at least two entities with a few properties.
