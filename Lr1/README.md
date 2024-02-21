@@ -32,6 +32,8 @@ Create a script to make a database for your model.
 /
 Ссылки на файл со скриптами
 /
+
+
 ### Задание 4
 Develop data layer as Java Beans for the model and make them prepared for use with Entity Persistence.
 
