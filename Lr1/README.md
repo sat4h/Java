@@ -3,7 +3,7 @@
 ## Самигуллин Равиль гр 6133
 ## Ионов Артем гр 6131
 
-###General task
+### General task
 You are to develop an application using common JavaEE architecture and technologies. It should have three layers (data, logic, view) and provide means to work with a database.
 
 It is strongly recommended to use version control and source code management system (like GitHub).
