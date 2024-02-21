@@ -41,36 +41,52 @@ Create a script to make a database for your model.
 Создали сущности Energy.java и Game.java
 Мы создали скрипты для создания бд и добавили туда данные.
 
-/
 [Ссылка на файл со скриптом](https://github.com/sat4h/Java/blob/e532a6b018bf8201ff0d051dbdbdf12b01afd345/Lr1/gamesenergyskript.sql)
-/
-
 
 ### Задание 4
 Develop data layer as Java Beans for the model and make them prepared for use with Entity Persistence.
 
 Мы добавили слой взаимодействия с базой данных использовали jdbc. Создали файлы DAO в качестве прослойки для доступа к данным.
-\
-файл связи с бд
-\
+
+DBConnectionConfig.java
+
+![image](https://github.com/sat4h/Java/assets/146749026/d58ec41a-d13d-424a-b1df-b725ed09acf7)
+
+GameDAO.java
+
+![image](https://github.com/sat4h/Java/assets/146749026/7507bc14-b0c8-40dc-8933-d55d279de808)
+
 
 ### Задание 5
 Implement business layer for accessing data using session beans.
 
 Мы добавили файлы сервлетов сервисные файлы для представления бизнес логики.
-\
 
-\
+HomeServlet.java
+
+![image](https://github.com/sat4h/Java/assets/146749026/4cdfa98c-29a4-4c06-ba94-b450a312d303)
 
 ### Задание 6
 Implement view layer using any technology of your choice, which is applicable here.
 
 Для слоя представления были созданы файлы .jsp.
 И мы получили следующие выводы на веб страницу.
+Главная index страница с методами edit, add, delete и переход на страницу с энергетиками main-page:
+
+![image](https://github.com/sat4h/Java/assets/146749026/3c98812b-5213-4868-bc16-12f014946d3e)
+
+Страница main-page
+
+![image](https://github.com/sat4h/Java/assets/146749026/a0c93bac-6d13-4760-92f3-36d4620520ca)
+
 
 ### Задание 7
 Make everything work together…
 
-\
-Скрины проекта.
-\
+Добавление новых данных
+
+![image](https://github.com/sat4h/Java/assets/146749026/e33f1e5e-aef7-4d05-b181-4f7a8da83757)
+
+![image](https://github.com/sat4h/Java/assets/146749026/9d80737b-534d-4a35-8f17-049709cf2842)
+
+
