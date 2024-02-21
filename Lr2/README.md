@@ -50,6 +50,25 @@ Make everything work together…
 
 ![image](https://github.com/sat4h/Java/assets/146749026/051b3037-e6a8-4188-9933-3ff3d9e2ef67)
 
-Поэтому добавили сервер Часового пояса Europe/Samara
+Для решения этой проблемы добавили в url дополнительные параметры, а именно `serverTimezone` Europe/Samara
 
 `jdbc.url=jdbc:mysql://localhost:3306/test?serverTimezone=Europe/Samara&useSSL=false`
+
+Страницы редактирования и добавления данных:
+
+![image](https://github.com/sat4h/Java/assets/146749026/6babcaf6-d10d-40cc-bdd0-5786ede1b727)
+
+Обновленные данные:
+
+![image](https://github.com/sat4h/Java/assets/146749026/cf01007f-87db-4819-9749-7e514de642bd)
+
+И переход на страницу Energy, где присутствуют аналогичные методы add, edit, delete, а так же возвращение на предыдущую страницу.
+
+![image](https://github.com/sat4h/Java/assets/146749026/cb1bfa74-82b2-4193-850d-7b82931051a5)
+
+
+
+
+
+
+
