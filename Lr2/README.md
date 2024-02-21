@@ -25,7 +25,9 @@ Yes, you can use the same models and scripts you used before.
 Develop data layer as Java Beans for the model and make them prepared for use with Hibernate.
 Create additional Hibernate classes and configuration files, as required.
 
+Была использована та же база данных, что и в 1 лабораторной работе.
 
+[Ссылка на файл со скриптом для бд](https://github.com/sat4h/Java/blob/e532a6b018bf8201ff0d051dbdbdf12b01afd345/Lr1/gamesenergyskript.sql)
 
 
 ### Задание 3
