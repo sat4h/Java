@@ -1,6 +1,7 @@
-# Practical Work #3
-
-## RESTful web-service
+# Лабораторная работа 3
+# RESTful web-service
+## Самигуллин Равиль гр 6133
+## Ионов Артем гр 6131
 
 ### General task
 
