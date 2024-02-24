@@ -12,30 +12,26 @@ It is strongly recommended to use Maven to manage your project.
 
 You can choose any IDE, but IntelliJ IDEA is recommended.
 
-### Task 1
+В данной работе был выбран Spring boot REST.
 
-Compare JAX-RS and SpringREST. Choose one of them for your application. Give some arguments for your choice.
+Причины использования Spring boot REST:
 
-### Task 2
+1. Интеграция с другими модулями Spring: Spring REST легко интегрируется с другими модулями Spring, такими как Spring Security, Spring Data, Spring Boot и т. д. Это обеспечивает более простую и гибкую разработку приложений.
 
-Choose one of your previous applications for further development.
+2. Удобство конфигурации: Spring REST предлагает удобный и гибкий способ конфигурации через аннотации и XML-конфигурацию. Это позволяет легко настраивать поведение REST-сервисов и контроллеров.
 
-Develop a REST API for accessing your data.
+3. Мощные функциональные возможности: Spring REST предоставляет мощные возможности для обработки запросов, валидации данных, обработки исключений и других задач, связанных с созданием RESTful API.
 
-### Task 3
+4. Поддержка сообществом: Spring Framework имеет большое сообщество разработчиков, что означает, что вы можете найти множество ресурсов, документации и поддержки для разработки приложений на Spring REST.
 
-Implement the API.
+5. Простота использования: Spring REST предлагает простой и интуитивно понятный подход к созданию RESTful API, что делает процесс разработки более эффективным и приятным.
 
-It should allow usage of both XML and JSON.
+В данной задаче были разработаны REST-точки доступа для выполнения операций CRUD.
 
-### Task 4
+Также было реализовано XSLT преобразование, которое изменяет входные данные в формате XML.
 
-Develop an XSL transformation for your XML objects to make a browser able to show them as HTML pages (including object data and navigation to other entities and their lists).
+Пример таблиц
 
-### Task 5
+![img1](https://github.com/sat4h/Java/assets/146749026/a76f8b01-6105-4590-8cfd-c0f34dc41fad)
 
-Add the XSLT to all XML responses.
-
-### Task 6
-
-Make everything work together…
+![img2](https://github.com/sat4h/Java/assets/146749026/adc698b2-2f52-4ba9-8cbe-2cebb417f67e)
